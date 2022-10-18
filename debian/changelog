@@ -1,0 +1,17 @@
+rime-prelude (0.0~git20211023.4001edf-1) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Debian Input Method Team <debian-input-method@lists.debian.org>  Fri, 22 Apr 2022 17:07:43 +0800
+
+rime-prelude (0.0~git20211023.4001edf-1) unstable; urgency=medium
+
+  * New upstream snapshot. 
+
+ -- Boyuan Yang <byang@debian.org>  Fri, 17 Dec 2021 14:33:17 -0500
+
+rime-prelude (0.0~git20210627.3de303f-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #996709)
+
+ -- Boyuan Yang <byang@debian.org>  Sat, 16 Oct 2021 12:07:51 -0400
